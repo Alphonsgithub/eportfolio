@@ -1,0 +1,39 @@
+body
+{
+    text-align: center;
+}
+
+#app {
+    background-color: aliceblue;
+}
+
+#myCarousel
+{
+    background-color: red;
+}
+
+#myCarousel img
+{
+    height: 300px;
+    margin-top: 35px;
+}
+
+.carousel-inner p
+{
+    margin-top: 15px;
+    color : white;
+    font-size: 20px;
+}
+#heading{background-color: yellowgreen;
+color:	#E52B50;
+font-weight: bold;    
+}
+
+
+#heading2{background-color:aquamarine;
+    color:blueviolet;
+    font-weight: bold;    
+    }
+p{font-size:large;
+margin:5px;
+}
